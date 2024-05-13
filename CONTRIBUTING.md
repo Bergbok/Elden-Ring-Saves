@@ -9,7 +9,7 @@
 2. **Clone your fork**: Clone your fork to your local machine. This allows you to work on the project from your own computer.
 
     ```bash
-    git clone https://github.com/<your-username></your-username>/Elden-Ring-Saves.git
+    git clone https://github.com/<your-username>/Elden-Ring-Saves.git
     ```
 
 3. **(Optional) Create a branch**: Before making your changes, create and switch to a new branch. Alternatively, simply commit to the main branch.
