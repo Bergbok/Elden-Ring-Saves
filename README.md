@@ -1536,13 +1536,13 @@
 
 # Usage
 
-1. Download and extract Ariescyn's Save Manager: [GitHub](https://github.com/Ariescyn/EldenRing-Save-Manager/releases) - [NexusMods](https://www.nexusmods.com/eldenring/mods/214)
+1. Download and extract Ariescyn's Save Manager: [GitHub](https://github.com/Ariescyn/EldenRing-Save-Manager/releases) / [NexusMods](https://www.nexusmods.com/eldenring/mods/214)
 2. [Download and extract this repository](https://github.com/Bergbok/Elden-Ring-Saves/archive/refs/heads/main.zip), or simply download the specific saves you want to use.
-4. Open the save manager and set it up by clicking: 
-  - `Edit -> Change Default Directory` and setting it to `%APPDATA%\EldenRing\<your-steam-id>`
-  - `Edit -> Change Default SteamID` and setting it your Steam ID.
-5. Use the `File -> Import Save File` option to import the saves you want to use. Select ***Patch with your ID*** at the prompt.
-6. Either load entire saves by highlighting it and selecting ***Load Save*** or use `Tools -> Character Manager` to create your own custom selection of builds.
+3. Open the save manager and set it up by clicking: 
+    - `Edit -> Change Default Directory` and setting it to `%APPDATA%\EldenRing\<your-steam-id>`
+    - `Edit -> Change Default SteamID` and setting it your Steam ID.
+4. Use the `File -> Import Save File` option to import the saves you want to use. Select ***Patch with your ID*** at the prompt.
+5. Either load entire saves by highlighting it and selecting ***Load Save*** or use `Tools -> Character Manager` to create your own custom selection of builds.
 
 > [!WARNING]  
 > Be sure to create redundant backups of your personal saves!
